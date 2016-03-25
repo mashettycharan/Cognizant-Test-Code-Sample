@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.body{margin:0px; padding:0px;}
+.header{ width:100%; height:90px; background:#f26b75; color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:25px; padding:20px; font-weight:bold; line-height:60px}
+
+.borleft{ border-left:1px solid #ccc; }
+.borbot{border-bottom:1px solid #ccc;}
+.borright{border-right:1px solid #ccc;}
+.mart10{ margin:10px 0 0 0}
+.marb10{ margin:0 0 10px 0}
+.bortop{ border-top:1px solid }
+
+.new{ border-bottom:1px solid #ccc; float:right;height:80px; width:100%;}
+.edit{ border-bottom:1px solid #ccc; float:right;height:50px; width:100%;
+ margin:10px 0 0px 0px; padding:0px}
+.lefttext{ float:left; display:block; width:70%}
+.image{ width:200px; height:250px; border:10px solid #666; background:#999;  margin:30px 0 0 0; color:#fff; vertical-align:middle; text-align:center; display:block}
+
+.preview{ display:block; vertical-align:middle; top:150px; position:absolute; left:60px; text-align:center;}
+.upload{ display:block; margin:20px 0px 0 50px ;}
+
+.save{ margin:50px 0 0 0; border:1px solid #ccc; display:block;}
+
+.mg{
+    margin-top: 20px;
+}
+
+.d{
+    height: 70px;
+}
+
+
+.footer{ width:100%; height:40px; background:#f26b75; color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:10px 0 0 30px; font-weight:bold; line-height:20px; margin:20px 0 0 0 }
+
